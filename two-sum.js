@@ -21,3 +21,6 @@ var twoSum = function (nums, target) {
   }
   return []; // No solution found!
 };
+
+let s = "";
+s.to;
